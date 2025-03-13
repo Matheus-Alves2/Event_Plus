@@ -1,0 +1,4 @@
+git config --global user.name "Matheus Alves"
+git config --global user.email "Matheus.procopio@aluno.senai.br"
+cls ou clear
+
